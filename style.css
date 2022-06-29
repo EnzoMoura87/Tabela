@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(Imagens/ce7336203a60118fa487e268ca7ec020.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+table {
+   background-color: white;
+   max-width: 100%;
+   margin: 60px auto; 
+   font-size: 18px;  
+}
+
+th {
+   padding: 0 5px;
+}
+td {
+    text-align: center;
+}
+
+.linhas td {
+    border-top: 1px solid rgba(128, 128, 128, 0.486);
+    border-top: 1px solid rgba(128, 128, 128, 0.486);
+}
+
+.libertadores {
+    border-left: 3px solid blue;
+}
+
+.pre {
+    border-left: 3px solid orange;
+}
+
+.sul_americana {
+    border-left: 3px solid green;
+}
+
+.branco {
+    border-left: 3px solid white;
+}
+
+.z4 {
+    border-left: 3px solid red;
+}
+
+.times {
+    width: 40%;
+}
+
+.time {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.time_metade {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-left: 2px;
+}
+
+.time_nome {
+    text-align: start;
+    padding-left: 5px;
+}
+
+.qualificacao {
+    background-color: #cccccc;
+    width: 490px;
+    margin: auto;
+    margin-top: -60px;
+    padding: 20px;
+}
+
+.liberta {
+    border-left: 3px solid blue;
+    margin-right: 10px;
+}
+
+p {
+    line-height: 25px;
+}
+
+h4 {
+    margin-bottom: 10px;
+}
+
